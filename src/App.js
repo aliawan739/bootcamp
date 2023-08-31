@@ -48,7 +48,7 @@ function App() {
           {isAdmin ? (
             <p>you have admin access</p>
           ) : (
-            <p>you dont have admin access</p>
+            <p>you dont have done admin access</p>
           )}
         </div>
       ) : (
